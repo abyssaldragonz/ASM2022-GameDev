@@ -20,7 +20,7 @@ The ASM program focused on understanding and learning about game design, on both
 <br>
 
 `\website-graphics` folder consists of various graphics included in the profile. 3D models (created with SculptGL), game sprite sketches (created with Piskel), game layout sketches (done digitally in Krita), screenshots of work in progress code and ideas (programmed in Construct 3), etc. <br> <br>
-`index.html` file is the main showcase profile created with HTML, CSS, and a bit of Javascript. Best viewed on desktops. <br> <br>
+`index.html` file is the main showcase profile created with HTML, CSS, and a bit of Javascript. Best viewed on desktops. Previously hosted at `https://ecbrown.org/asm2/promotions/josephine` <br> <br>
 `the-beginning.html` file is the interactive storyTwine (created with Twine) that goes along with the main game. While the main game itself is not fully complete, this branching storyline is a rough outline of what the final story within the game will be like. Best viewed on desktops. <br>
 
 <br>
